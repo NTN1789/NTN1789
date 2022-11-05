@@ -49,7 +49,12 @@
       <img align= "center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img align= "center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align= "center" alt="Kotlin" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white " />
+ 
   </div>
+  
+  
+  
+   <img align= "center"  alt="Adobe"  src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-4.gif" />
 
 
 ## Design 
@@ -59,7 +64,7 @@
 
  <img align= "center"  alt="Adobe"  src= "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> 
  
- <img align= "center"  alt="Adobe"  src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-4.gif" />
+
  
  
  </div>

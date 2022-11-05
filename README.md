@@ -25,14 +25,11 @@
 <img align= "center"  alt="java"  src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white " />  
 <img align= "center"  alt="python"  src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white " />
 
-<br>
+<br><br>
 
   <img align= "center" alt="LUFFY" src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-5.gif" />
       
-      
-      
-      
-      
+           
 </div>
 
 

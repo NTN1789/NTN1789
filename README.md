@@ -40,10 +40,7 @@
 <img align= "center"  alt="python"  src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white " />
       <img align= "center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img align= "center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      
-
-
-<img align= "center" alt="Kotlin" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white " />
+<img align= "center" alt="Kotlin" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white " />
   </div>
 
 

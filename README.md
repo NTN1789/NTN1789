@@ -23,7 +23,10 @@
 <img align= "center"  alt="visual studio code"  src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 <img align= "center"  alt="Figma"  src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white " /> 
 <img align= "center"  alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
- <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
+ <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ 
+ 
+<img align= "center"  alt="inteliJ"  src="http://ForTheBadge.com/images/badges/built-with-love.svg " />
 
 
 <br><br>

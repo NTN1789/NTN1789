@@ -28,6 +28,8 @@
 <br><br>
 
   <img align= "center" alt="LUFFY" src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-5.gif" />
+    <img align= "center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img align= "center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       
            
 </div>

@@ -58,9 +58,6 @@
 <img align= "center"  alt="Adobe"  src= "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 
  <img align= "center"  alt="Adobe"  src= "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> 
-
-
- 
  
  <img align= "center"  alt="Adobe"  src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-4.gif" />
  

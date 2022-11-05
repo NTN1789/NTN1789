@@ -22,8 +22,10 @@
 <img align= "center"  alt="git"  src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align= "center"  alt="visual studio code"  src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
 <img align= "center"  alt="Office"  src= "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white " /> 
-<img align= "center"  alt="java"  src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white " />    
-<img align= "center"  alt="C++"  src=" 	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+<img align= "center"  alt="java"  src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white " />  
+<img align= "center"  alt="Office"  src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white " />
+<img align= "center"  alt="Office"  src= " 	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white " />
+
 
 
 <br>

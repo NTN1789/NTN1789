@@ -31,11 +31,14 @@
  
 <img align= "center"  alt="inteliJ"  src="http://ForTheBadge.com/images/badges/built-with-love.svg " />
 <img align= "center"  alt="inteliJ"  src="http://ForTheBadge.com/images/badges/built-with-science.svg " />
+ 
+ 
+ <img align= "center" alt="LUFFY" src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-5.gif" />
 
 
 <br><br>
 
-  <img align= "center" alt="LUFFY" src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-5.gif" />
+  
            
 </div>
 <br><br>

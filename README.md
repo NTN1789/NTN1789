@@ -28,10 +28,8 @@
 <img align= "center"  alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
  <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
  <Br><br> 
- 
 <img align= "center"  alt="inteliJ"  src="http://ForTheBadge.com/images/badges/built-with-love.svg " />
 <img align= "center"  alt="inteliJ"  src="http://ForTheBadge.com/images/badges/built-with-science.svg " />
- 
  
  <img align= "center" alt="LUFFY" src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-5.gif" />
 
@@ -55,9 +53,6 @@
  
   </div>
   
-  
-  
-   
 
 ## Design 
 <div style="display: "inline-block ><br>
@@ -66,8 +61,6 @@
 
  <img align= "center"  alt="Adobe"  src= "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> 
  
-
- <img align= "center"  alt="Adobe"  src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-4.gif" />
 
  
  </div>

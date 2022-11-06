@@ -65,12 +65,6 @@
  
  </div>
  
- 
- 
- 
- 
- 
-   <img align= "center"  alt="Adobe"  src= " https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-4.gif " />
 
 
 

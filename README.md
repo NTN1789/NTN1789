@@ -29,7 +29,7 @@
  
  <br><br>
 <img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
-<img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
+<img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-science.svg"/>
 
  <br><br>
  

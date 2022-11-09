@@ -28,8 +28,10 @@
  <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
  
  <br><br> 
-<img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
-<img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
+
+ 
+ <img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+ <img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
 
  <br><br>
  

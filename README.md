@@ -27,9 +27,8 @@
 <img align= "center"  alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
  <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
  
- <br><br> 
+ <br>
 
- 
  <img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
  <img align= "center"  alt="intelij"  src="http://ForTheBadge.com/images/badges/built-with-science.svg" />
 

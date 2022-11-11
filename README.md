@@ -54,8 +54,9 @@
    <img align= "center" alt="VueJs" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D " />
      <img align= "center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
- 
   </div>
+  
+  ## tecnologias  que vou Aprender
   
 
 

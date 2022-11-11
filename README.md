@@ -59,7 +59,7 @@
   ## tecnologias  que vou Aprender
   
   
-  div style="display: "inline-block > <br>
+  <div style="display: "inline-block > <br>
   
   
    <img align= "center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />

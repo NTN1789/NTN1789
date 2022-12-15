@@ -11,6 +11,12 @@
 
 
 
+![ NTN GitHub stats](https://github-readme-stats.vercel.app/api?username=NTN1789&show_icons=dracula)
+<br><br>
+![NTN GitHub stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=NTN1789&theme=blue-green)
+
+
+
 
 
 ## tecnologias  que eu uso no meu dia 

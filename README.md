@@ -15,7 +15,7 @@
 <br><br>
 ![NTN GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/NTN1789?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![NTN1789 wakatime stats](https://github-readme-stats.vercel.app/api/NTN1789?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

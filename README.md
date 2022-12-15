@@ -8,9 +8,7 @@
 [![Git hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NTN1789 )
  [![League of Legends](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](JACKYLOVE)
 
-![ NTN GitHub stats](https://github-readme-stats.vercel.app/api?username=NTN1789&show_icons=dracula)
-<br><br>
-![NTN GitHub stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=NTN1789&theme=blue-green)
+
 
 
 

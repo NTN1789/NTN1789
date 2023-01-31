@@ -63,8 +63,10 @@
 
  <img align= "center"  alt="typescript"  src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white " />
 
-<img align= "center" alt="Jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white " />
-                                                                                                      <img align= "center" alt="Jquery" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white " />                     
+<img align= "center" alt="MYSQL" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white " />
+                                                                                                      <img align= "center" alt="Jquery" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white " />  
+ 
+<img align="center"  alt="React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB  " /> 
 
 
 
@@ -76,7 +78,7 @@
   <div style="display: "inline-block > <br>
   
 
-   <img align= "center" alt="GO" src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+   <img align= "center" alt="Mongo" src= "https://img.shields.io/badge/MongoDB-4EA94Bstyle=forthebadge&logo=mongodb&logoColor=whitee" />
    <img align= "center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img align= "center" alt="R" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
    

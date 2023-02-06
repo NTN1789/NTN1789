@@ -73,7 +73,7 @@
 <img align="center"  alt="React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB  " /> 
  
     
-<img align="center" alt="vue-js"   src=" https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D " />
+<img align="center" alt="vue-js" src=" https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D " />
 
 
 

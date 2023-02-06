@@ -44,7 +44,6 @@
   
   
   
- 
  <br>
 
  <img align= "center"  alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
@@ -53,19 +52,17 @@
  <br><br>
  
  <img align= "center" alt="LUFFY" src="https://onepieceex.net/wp-content/uploads/2023/05/ezgif.com-gif-maker-5.gif" />
-  
          
 </div>
+
 <br><br>
 
 ## tecnologias  que estou aprendendo 
 
 
-<div style="display: "inline-block ><br>
+<div style="display: "inline-block >
  
- 
- 
- 
+ <br>
  
   <img align= "center" alt="Jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     
@@ -91,11 +88,10 @@
   
 
    <img align= "center" alt="Mongo" src= "https://img.shields.io/badge/MongoDB-4EA94Bstyle=forthebadge&logo=mongodb&logoColor=whitee" />
-   <img align= "center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img align= "center" alt="R" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
    
 
-   </div
+   </div>
 
 
 

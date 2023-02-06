@@ -12,7 +12,7 @@
 
 
 ![NTN GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![NTN Github stats ](https://github-readme-stats.vercel.app/api?username={NTN1789}&theme=blue-green)
+
 <br><br>
 ![NTN GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 

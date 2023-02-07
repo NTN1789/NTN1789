@@ -1,5 +1,6 @@
 
-### ola! eu sou o Natan ✌️
+### olá eu sou o Natan✌️
+### tenho 20 anos é estou sempre praticando javascript , React , node e java
 
 
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-silva-314b7218a/)

@@ -32,8 +32,8 @@
 <img align= "center"  alt="javascript"  src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " /> 
 <img align= "center"  alt="git"  src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img align= "center" alt="React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align= "center"  alt="visual studio code"  src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white " />
-<img align= "center"  alt="Figma"  src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white " /> 
+<img align= "center"  alt="visual studio code"  src=  "https://img.shields.io/badge/Visual_Studio_Code0078D4style=forthebadge&logo=visual%20studio%20code&logoColor=white " />
+
 <img align= "center"  alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 
@@ -87,14 +87,13 @@
 
   </div>
   
-  ## tecnologias  que vou Aprender
+  ## Design
   
   
   <div style="display: "inline-block > <br>
   
+  <img align="center" alt="vue-js" src=  " https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 " />
 
-   <img align= "center" alt="Mongo" src= "https://img.shields.io/badge/MongoDB-4EA94Bstyle=forthebadge&logo=mongodb&logoColor=whitee" />
-    <img align= "center" alt="R" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
    
 
    </div>

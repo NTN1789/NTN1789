@@ -73,7 +73,7 @@
 
    <img align= "center" alt="tailwind" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white " />  
  
-<img align="center"  alt="React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB  " /> 
+
  
     
 

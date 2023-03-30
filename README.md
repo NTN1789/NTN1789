@@ -69,7 +69,9 @@
     
  <img align="center" alt="vue-js" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D " />
 
- <img align= "center"  alt="typescript"  src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white " />
+ <img align= "center"  alt="php"  src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white " />
+ 
+ <img align= "center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
  
 
 

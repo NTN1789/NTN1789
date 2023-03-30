@@ -41,6 +41,8 @@
  <img align= "center" alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "/>
   <img align= "center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align= "center" alt="Material-Ui" src= "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white " />
+ 
+  <img align= "center" alt="Next" src="https://img.shields.io/badge/Next-00ADD8?style=for-the-badge&logo=Next&logoColor=white" />
   
   
   

@@ -36,7 +36,7 @@
 
 <div style="displa: "inline_block></br> 
 
-<details open>
+<details close>
 <summary>hard skills</summary>
 
  

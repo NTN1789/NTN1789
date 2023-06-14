@@ -36,7 +36,7 @@
 
 <div style="displa: "inline_block></br> 
 
-<details close>
+<details open>
 <summary>hard skills</summary>
 
  
@@ -47,10 +47,11 @@
    <img align="center"   alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align= "center"  alt="CSS"  src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   />
  <img align= "center"  alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align= "center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </details>
 
-<details open>
-   <summary>Frameworks a</summary>
+<details close>
+   <summary>Frameworks </summary>
     <div align="center">
 
 
@@ -61,15 +62,12 @@
  
  <img align= "center" alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "/>
  <img align="center" alt="tailwnd" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align= "center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
- 
   <img align= "center" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
  <img align="center" alt= "jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
       </div>
 </details>
-  <details open>
+  <details close>
 <summary> integrated development environment </summary>
  <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img align= "center"  alt="git"  src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />

@@ -11,22 +11,13 @@
 
 
 
+<a href="https://app.daily.dev/TanSilva"><img src="https://api.daily.dev/devcards/252a1f0ca570496ca705b55f25ebddf1.png?r=xy1" width="400" alt="Natan Almeida da silva's Dev Card"/></a>
+
 <div>
 <a href="https://github.com/NTN1789">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTN1789&layout=compact&langs_count=7&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NTN1789&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
-
-
-
-
-
-
-
-<a href="https://app.daily.dev/TanSilva"><img src="https://api.daily.dev/devcards/252a1f0ca570496ca705b55f25ebddf1.png?r=xy1" width="400" alt="Natan Almeida da silva's Dev Card"/></a>
-
-
-
 
 
 

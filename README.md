@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@NTN#8492)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/natanalmeida040@gmail.com)
 [![Git hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NTN1789 )
- [![League of Legends](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](JACKYLOVE)
+
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-
+<a href="https://app.daily.dev/TanSilva"><img src="https://api.daily.dev/devcards/252a1f0ca570496ca705b55f25ebddf1.png?r=xy1" width="400" alt="Natan Almeida da silva's Dev Card"/></a>
 
 
 

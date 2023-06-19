@@ -11,7 +11,7 @@
 
 
 
-<a href="https://app.daily.dev/TanSilva"><img src="https://api.daily.dev/devcards/252a1f0ca570496ca705b55f25ebddf1.png?r=xy1" width="400" alt="Natan Almeida da silva's Dev Card"/></a>
+
 
 <div>
 <a href="https://github.com/NTN1789">

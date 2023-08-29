@@ -57,6 +57,12 @@
  <img align="center" alt= "jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   
 </details>
+
+<details open>
+
+  https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+</details>
+
   <details close>
 <summary> integrated development environment </summary>
  <img align= "center"  alt="inteliJ"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />

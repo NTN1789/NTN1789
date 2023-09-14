@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js, nodejs,ts,php,mysql ,postgres,firebase  " />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,ts,php,mysql ,postgres,firebase " />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <p> frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue, nextjs, gatsby ,nestjs, express,prisma, mongodb,jest,vite,redux ,tailwind,styledcomponents,sass,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,vue, nextjs, gatsby ,nestjs, express,prisma, mongodb,jest,vite,redux ,tailwind,styledcomponents,sass,materialui " />
   </a>
 </p>
 

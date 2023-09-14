@@ -18,11 +18,6 @@
 
 <div style="displa: "inline_block></br> 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 
 <details open>
@@ -71,7 +66,11 @@
 
 <br><br>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
  
   
 

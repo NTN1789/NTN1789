@@ -36,13 +36,15 @@
 </p>
 
 
-
+<div  display="flex" , align="center"> 
+  
 <p> tecnologias que eu gosto de estudar e codar</p>
 <p align= "center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java "/>
          </a>
 </p>
+</div>
 
 
 

@@ -15,6 +15,7 @@
 <br><br/>
 <div  display="flex" , align="center"> 
      <negrito>Tecnologias que  eu uso no meu dia a dia  </negrito> 
+     <br></br>
 
 <div  display="flex" , align="center"> 
 <p align="center">

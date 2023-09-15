@@ -13,7 +13,7 @@
 <a href="https://github.com/NTN1789">
 
 
-
+<div  display="flex" , align="center"> 
 ## tecnologias  que eu uso no meu dia 
 
 
@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,ts,php,mysql,firebase " />
   </a>
 </p>
+</div>
 </div>
   <br></br>
 

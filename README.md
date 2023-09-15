@@ -12,9 +12,9 @@
 
 <a href="https://github.com/NTN1789">
 
-
+<br><br/>
 <div  display="flex" , align="center"> 
-## tecnologias  que eu uso no meu dia 
+  ## tecnologias  que eu uso no meu dia 
 <br>
 <div  display="flex" , align="center"> 
 <p align="center">

@@ -29,7 +29,8 @@
   <br></br>
 
 <div  display="flex" , align="center"> 
-## frameworks 
+
+  ## Framework 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nestjs,express,mongodb,jest,vite,tailwind,styledcomponents,sass" />

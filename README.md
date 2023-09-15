@@ -31,7 +31,7 @@
 <p> frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nestjs,express,prisma,mongodb,jest,vite,tailwind,styledcomponents,sass" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nestjs,express,mongodb,jest,vite,tailwind,styledcomponents,sass" />
   </a>
 </p>
 

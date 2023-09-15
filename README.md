@@ -19,21 +19,24 @@
 <div style="displa: "inline_block></br> 
 
 
-
+<div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,ts,php,mysql,firebase " />
   </a>
 </p>
+</div>
+  <br></br>
+  <br></br>
 
-
-
+<div  display="flex" , align="center"> 
 <p> frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nestjs,express,mongodb,jest,vite,tailwind,styledcomponents,sass" />
   </a>
 </p>
+</div>
 
 <br><br/>
 

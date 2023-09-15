@@ -29,7 +29,7 @@
   <br></br>
 
 <div  display="flex" , align="center"> 
-<p> frameworks</p>
+## frameworks 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nestjs,express,mongodb,jest,vite,tailwind,styledcomponents,sass" />
@@ -41,7 +41,7 @@
 
 <div  display="flex" , align="center"> 
   
-<p> tecnologias que eu gosto de estudar e codar</p>
+## tecnologias que eu gosto de estudar e codar
 <p align= "center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,elixir"/>

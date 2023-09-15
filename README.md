@@ -16,8 +16,9 @@
 
 ## tecnologias  que eu uso no meu dia 
 
-<div style="displa: "inline_block> 
 
+<div style="display: "inline_block> 
+<br>
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">

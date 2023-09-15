@@ -14,7 +14,7 @@
 
 <br><br/>
 <div  display="flex" , align="center"> 
-     ## Tecnologias que  eu uso no meu dia a dia
+     <negrito>Tecnologias que  eu uso no meu dia a dia  </negrito> 
 
 <div  display="flex" , align="center"> 
 <p align="center">

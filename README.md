@@ -16,8 +16,7 @@
 
 ## tecnologias  que eu uso no meu dia 
 
-<div style="displa: "inline_block></br> 
-
+<div style="displa: "inline_block> 
 
 <div  display="flex" , align="center"> 
 <p align="center">
@@ -26,7 +25,6 @@
   </a>
 </p>
 </div>
-  <br></br>
   <br></br>
 
 <div  display="flex" , align="center"> 

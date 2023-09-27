@@ -15,7 +15,8 @@
 <br><br/>
 <div  display="flex" , align="center">      
  ## Tecnologias que  eu uso no meu dia a dia    
-   <br>
+ 
+   <br><br/>
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">

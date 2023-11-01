@@ -20,7 +20,7 @@
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,php,mysql,mongodb,firebase " />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,php,mysql,firebase " />
   </a>
 </p>
 </div>
@@ -31,7 +31,7 @@
   ## Framework 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,vite,tailwind,styledcomponents,sass" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,mongodb,vite,tailwind,styledcomponents,sass" />
   </a>
 </p>
 </div>

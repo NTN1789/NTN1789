@@ -31,7 +31,7 @@
   ## Framework 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,rails,nestjs,express,jest,mongodb,vite,tailwind,styledcomponents,sass" />
+    <img src="https://skillicons.dev/icons?i=react,rails,nestjs,express,prisma,jest,mongodb,vite,tailwind,styledcomponents,sass" />
   </a>
 </p>
 </div>

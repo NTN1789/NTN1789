@@ -28,7 +28,7 @@
 
 <div  display="flex" , align="center"> 
 
-  ## Framework 
+  ## Framework e ORM
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,rails,spring,nestjs,express,prisma,jest,vite,tailwind,styledcomponents,sass" />

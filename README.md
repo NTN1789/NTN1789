@@ -20,8 +20,12 @@
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,java,nodejs,mysql,firebase " />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,java,nodejs,docker " />
   </a>
+
+     <a  href="https://skillicons.dev"> 
+     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    </a>
 </p>
 </div>
   <br></br>

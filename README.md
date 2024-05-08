@@ -31,7 +31,7 @@
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sequelize,prisma" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sequelize,prisma" />
   </a>
 </p>
 

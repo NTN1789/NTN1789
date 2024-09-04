@@ -65,7 +65,7 @@
 
  <br><br>
  
- <img align= "center" alt="LUFFY" src="https://br.pinterest.com/pin/52213676923594777/" />
+ <img align= "center" alt="LUFFY" src="https://media1.tenor.com/m/Nt6Zju-KjTsAAAAC/luffy-one-piece.gif" />
          
 </div>
 

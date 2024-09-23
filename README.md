@@ -41,7 +41,7 @@
   ## Framework 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,laravel,nestjs,express,jest,react,vue,tailwind" />
+    <img src="https://skillicons.dev/icons?i=spring,rabbitmq,nestjs,express,laravel,jest,react,vue,tailwind" />
   </a>
 </p>
 </div>

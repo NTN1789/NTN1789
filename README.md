@@ -48,15 +48,6 @@
 
 <br><br/>
 
-<div  display="flex" , align="center"> 
-  
-## tecnologias que eu gosto de estudar e codar
-<p align= "center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=elixir,go,ruby,rust,cs"/>
-         </a>
-</p>
-</div>
 
 
 

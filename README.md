@@ -53,7 +53,7 @@
 ## tecnologias que eu gosto de estudar e codar
 <p align= "center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=elixir,go,ruby,rust e java"/>
+        <img src="https://skillicons.dev/icons?i=elixir,go,ruby,rust,java"/>
          </a>
 </p>
 </div>

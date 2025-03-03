@@ -20,7 +20,7 @@
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,cs,java,nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,cs,nodejs,docker" />
   </a>
 
 </p>
@@ -48,7 +48,15 @@
 
 <br><br/>
 
-
+<div  display="flex" , align="center"> 
+  
+## tecnologias que eu gosto de estudar e codar
+<p align= "center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=elixir,go,ruby,rust e java"/>
+         </a>
+</p>
+</div>
 
 
  <img align= "center"  alt="love" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />

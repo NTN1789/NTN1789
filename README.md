@@ -20,7 +20,7 @@
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,cs,nodejs,docker,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,typescript,cs,java,nodejs,docker,bootstrap,sass" />
   </a>
 
 </p>
@@ -53,7 +53,7 @@
 ## tecnologias que eu gosto de estudar e codar
 <p align= "center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=elixir,go,ruby,rust,java"/>
+        <img src="https://skillicons.dev/icons?i=elixir,go,ruby,rust"/>
          </a>
 </p>
 </div>

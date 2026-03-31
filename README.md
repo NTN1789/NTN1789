@@ -41,7 +41,7 @@
   ## Framework 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,nestjs,angular" />
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,angular" />
   </a>
 </p>
 </div>
